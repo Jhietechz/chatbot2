@@ -1,0 +1,93 @@
+2025/10/12-12:41:28.931 1c80 Reusing MANIFEST D:\portfolio\whatsapp-bot\src\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/12-12:41:28.941 1c80 Recovering log #299
+2025/10/12-12:41:28.942 1c80 Reusing old log D:\portfolio\whatsapp-bot\src\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000299.log 
+2025/10/12-12:41:51.606 239c Compacting 1@1 + 7@2 files
+2025/10/12-12:41:51.709 239c Generated table #302@1: 51478 keys, 2209877 bytes
+2025/10/12-12:41:51.778 239c Generated table #303@1: 32886 keys, 2190359 bytes
+2025/10/12-12:41:51.812 239c Generated table #304@1: 1816 keys, 2156386 bytes
+2025/10/12-12:41:51.846 239c Generated table #305@1: 2492 keys, 2157698 bytes
+2025/10/12-12:41:51.929 239c Generated table #306@1: 28745 keys, 2253420 bytes
+2025/10/12-12:41:52.025 239c Generated table #307@1: 35554 keys, 2184728 bytes
+2025/10/12-12:41:52.153 239c Generated table #308@1: 104743 keys, 2257501 bytes
+2025/10/12-12:41:52.165 239c Generated table #309@1: 1580 keys, 35308 bytes
+2025/10/12-12:41:52.165 239c Compacted 1@1 + 7@2 files => 15445277 bytes
+2025/10/12-12:41:52.166 239c compacted to: files[ 0 0 9 0 0 0 0 ]
+2025/10/12-12:41:52.167 239c Delete type=2 #291
+2025/10/12-12:41:52.167 239c Delete type=2 #292
+2025/10/12-12:41:52.167 239c Delete type=2 #293
+2025/10/12-12:41:52.167 239c Delete type=2 #294
+2025/10/12-12:41:52.167 239c Delete type=2 #295
+2025/10/12-12:41:52.167 239c Delete type=2 #296
+2025/10/12-12:41:52.168 239c Delete type=2 #297
+2025/10/12-12:41:52.168 239c Delete type=2 #300
+2025/10/12-12:41:52.313 1c80 Level-0 table #311: started
+2025/10/12-12:41:52.318 1c80 Level-0 table #311: 25904 bytes OK
+2025/10/12-12:41:52.319 1c80 Delete type=0 #299
+2025/10/12-12:41:52.319 1c80 Manual compaction at level-0 from '\x00\x1a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/10/12-12:41:55.197 4808 Compacting 1@1 + 9@2 files
+2025/10/12-12:41:55.288 4808 Generated table #312@1: 51546 keys, 2210228 bytes
+2025/10/12-12:41:55.375 4808 Generated table #313@1: 32930 keys, 2189292 bytes
+2025/10/12-12:41:55.432 4808 Generated table #314@1: 1816 keys, 2155911 bytes
+2025/10/12-12:41:55.489 4808 Generated table #315@1: 2491 keys, 2158698 bytes
+2025/10/12-12:41:55.601 4808 Generated table #316@1: 28720 keys, 2253682 bytes
+2025/10/12-12:41:55.692 4808 Generated table #317@1: 35454 keys, 2183873 bytes
+2025/10/12-12:41:55.838 4808 Generated table #318@1: 104743 keys, 2257496 bytes
+2025/10/12-12:41:55.859 4808 Generated table #319@1: 14314 keys, 315996 bytes
+2025/10/12-12:41:55.859 4808 Compacted 1@1 + 9@2 files => 15725176 bytes
+2025/10/12-12:41:55.860 4808 compacted to: files[ 0 0 8 0 0 0 0 ]
+2025/10/12-12:41:55.860 4808 Delete type=2 #298
+2025/10/12-12:41:55.860 4808 Delete type=2 #302
+2025/10/12-12:41:55.860 4808 Delete type=2 #303
+2025/10/12-12:41:55.860 4808 Delete type=2 #304
+2025/10/12-12:41:55.860 4808 Delete type=2 #305
+2025/10/12-12:41:55.860 4808 Delete type=2 #306
+2025/10/12-12:41:55.860 4808 Delete type=2 #307
+2025/10/12-12:41:55.860 4808 Delete type=2 #308
+2025/10/12-12:41:55.860 4808 Delete type=2 #309
+2025/10/12-12:41:55.860 4808 Delete type=2 #311
+2025/10/12-12:42:19.824 2d1c Level-0 table #321: started
+2025/10/12-12:42:19.871 2d1c Level-0 table #321: 1268057 bytes OK
+2025/10/12-12:42:19.874 2d1c Delete type=0 #310
+2025/10/12-12:42:19.902 4808 Compacting 1@1 + 8@2 files
+2025/10/12-12:42:20.028 4808 Generated table #322@1: 48984 keys, 2205441 bytes
+2025/10/12-12:42:20.142 4808 Generated table #323@1: 41067 keys, 2198934 bytes
+2025/10/12-12:42:20.175 4808 Generated table #324@1: 1740 keys, 2154614 bytes
+2025/10/12-12:42:20.208 4808 Generated table #325@1: 2253 keys, 2156892 bytes
+2025/10/12-12:42:20.295 4808 Generated table #326@1: 24164 keys, 2246819 bytes
+2025/10/12-12:42:20.367 4808 Generated table #327@1: 24992 keys, 2175076 bytes
+2025/10/12-12:42:20.515 4808 Generated table #328@1: 105160 keys, 2256934 bytes
+2025/10/12-12:42:20.559 4808 Generated table #329@1: 29584 keys, 644382 bytes
+2025/10/12-12:42:20.559 4808 Compacted 1@1 + 8@2 files => 16039092 bytes
+2025/10/12-12:42:20.560 4808 compacted to: files[ 0 0 8 0 0 0 0 ]
+2025/10/12-12:42:20.560 4808 Delete type=2 #312
+2025/10/12-12:42:20.560 4808 Delete type=2 #313
+2025/10/12-12:42:20.560 4808 Delete type=2 #314
+2025/10/12-12:42:20.560 4808 Delete type=2 #315
+2025/10/12-12:42:20.560 4808 Delete type=2 #316
+2025/10/12-12:42:20.560 4808 Delete type=2 #317
+2025/10/12-12:42:20.560 4808 Delete type=2 #318
+2025/10/12-12:42:20.560 4808 Delete type=2 #319
+2025/10/12-12:42:20.560 4808 Delete type=2 #321
+2025/10/12-13:31:38.906 221c Level-0 table #331: started
+2025/10/12-13:31:38.950 221c Level-0 table #331: 1262558 bytes OK
+2025/10/12-13:31:38.951 221c Delete type=0 #320
+2025/10/12-13:31:42.240 1fec Compacting 1@1 + 8@2 files
+2025/10/12-13:31:42.409 1fec Generated table #332@1: 52377 keys, 2211341 bytes
+2025/10/12-13:31:42.549 1fec Generated table #333@1: 36824 keys, 2193878 bytes
+2025/10/12-13:31:42.604 1fec Generated table #334@1: 1778 keys, 2155137 bytes
+2025/10/12-13:31:42.654 1fec Generated table #335@1: 2248 keys, 2156367 bytes
+2025/10/12-13:31:42.765 1fec Generated table #336@1: 24760 keys, 2247571 bytes
+2025/10/12-13:31:42.848 1fec Generated table #337@1: 22063 keys, 2171968 bytes
+2025/10/12-13:31:43.031 1fec Generated table #338@1: 105407 keys, 2257263 bytes
+2025/10/12-13:31:43.100 1fec Generated table #339@1: 32033 keys, 699217 bytes
+2025/10/12-13:31:43.100 1fec Compacted 1@1 + 8@2 files => 16092742 bytes
+2025/10/12-13:31:43.101 1fec compacted to: files[ 0 0 8 0 0 0 0 ]
+2025/10/12-13:31:43.101 1fec Delete type=2 #322
+2025/10/12-13:31:43.101 1fec Delete type=2 #323
+2025/10/12-13:31:43.101 1fec Delete type=2 #324
+2025/10/12-13:31:43.101 1fec Delete type=2 #325
+2025/10/12-13:31:43.102 1fec Delete type=2 #326
+2025/10/12-13:31:43.102 1fec Delete type=2 #327
+2025/10/12-13:31:43.102 1fec Delete type=2 #328
+2025/10/12-13:31:43.102 1fec Delete type=2 #329
+2025/10/12-13:31:43.102 1fec Delete type=2 #331

@@ -1,0 +1,7 @@
+node_modules/
+.wwebjs_cache/
+chrome/
+.env
+*.log
+dist/
+build/
